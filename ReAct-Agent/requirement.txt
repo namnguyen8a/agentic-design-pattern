@@ -1,0 +1,6 @@
+ipython
+notebook
+google-genai
+python-dotenv
+ipykernel
+jupyter
