@@ -5,10 +5,13 @@
     - *Action*: the agent takes a specific action based on its reasoning
     - *Observation*: the agent observes the result of its action
     - *Answer*: the agent provides a final answer after gathering enough information
+## Architecture:
+- 
 
 ## Refs:
 - https://www.linkedin.com/pulse/building-ai-re-act-agent-from-scratch-step-by-step-guide-venkat-cihhe/
 - https://github.com/KansSoftware/simple-re-act-agent-from-scratch
+- https://ai.google.dev/gemini-api/docs/text-generation
 
 ## Notes:
 - running this cmd inside the activated virtual environment file to register virtual env as a jupyter kernel to run the cell within virtual env
